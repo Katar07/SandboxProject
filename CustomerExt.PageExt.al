@@ -3,6 +3,6 @@ pageextension 50110 "Customer Ext" extends "Customer List"
     trigger OnOpenPage()
 
     begin
-        Message('Welcome first');
+        Message('Welcome first again');
     end;
 }
